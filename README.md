@@ -116,11 +116,4 @@ Implemented backend calls to retrieve players and teams statistics from our data
   <li>We added media integration in our app. Our initial blueprint for the app is to be a statistic focused app where the sole purpose is for NBA stats enthusiasts to find and play with the data they want. Then we decided we want to make our app as an information hub for NBA fans. We have found API that provided news from ESPN and successfully retrieved the data using HTTP request and stored the news articles in redux state. We also integrated twitter into our app. We decided to map each twitter integration to each user given their favorite team. These features really took the advantage of redux state and made our app more tailored to user's preferences</li>
   <li>On the stats page, we implemented team and player comparisons: something that is unavailable on the official NBA stats website. This is one of our main standout features of our application. </li>
 </ul>
-<h4> Prototypes </h4>
-<h6> Home Page </h6>
-<img src="public/HomePage.png" alt="Home Page" style="width:75%">
-<h6> Stats Page </h6>
-<img src="public/StatsPage.png" alt="Stats Page" style="width:75%">
-<h6> Account Page </h6>
-<img src="public/UserPage.png" alt="Account Page" style="width:75%">
 <h6> Team Members: Peter Han, Yuting Wen, Tony Chen </h6>
