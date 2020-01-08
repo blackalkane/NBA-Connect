@@ -1,0 +1,32 @@
+img.profile {
+  width: 150px;
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  float: left;
+  margin: 20px;
+}
+
+.team {
+  height: 60px;
+}
+
+.padded {
+  margin-left: 20px;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.editButton {
+  margin-left: 10px;
+  margin-right: 5px;
+}
+
+.favTeamSelect {
+  width: 50px;
+}
+
+.nameSelect {
+  width: 100px;
+}

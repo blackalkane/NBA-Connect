@@ -1,0 +1,47 @@
+.main {
+  position: relative;
+}
+
+.inner {
+  margin: 10px;
+  min-width: 500px;
+  clear:both;
+}
+
+.left {
+  width: 55%;
+  float: left;
+  -webkit-flex: none;
+  flex: none;
+}
+
+.center{
+  width: 60%;
+  margin: 0px auto;
+  -webkit-flex: none;
+  flex: none;
+}
+
+
+.right {
+  -webkit-flex: 1;
+  flex: 1;
+  width: 40%;
+  float: left;
+}
+
+.userDetails {
+  min-height: 200px;
+}
+
+.matchInformation {
+  min-height: 500px;
+}
+
+.playerStats {
+  min-height: 400px;
+}
+
+.newsDashboard {
+  min-height: 300px;
+}

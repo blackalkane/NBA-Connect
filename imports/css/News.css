@@ -1,0 +1,13 @@
+img{
+  max-width:60%;
+  max-height:60%;
+  flex: 1;
+  resize: 'contain';
+}
+
+.HeadNews{
+  text-align: center;
+}
+
+.rowC{display:flex; flex-direction:row;}
+
